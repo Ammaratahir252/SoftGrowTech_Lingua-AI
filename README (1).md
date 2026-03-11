@@ -42,11 +42,6 @@ translation/
 ├── README.md               ← You are here
 ├── templates/
 │   └── index.html          ← Frontend (HTML + CSS + JS)
-└── static/
-    ├── css/
-    │   └── style.css
-    └── js/
-        └── main.js
 ```
 
 ---
